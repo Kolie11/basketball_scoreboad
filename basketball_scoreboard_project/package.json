@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06bj77fke",
+  "description": "https://v2.scrimba.com/s06bj77fke",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
